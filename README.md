@@ -1,4 +1,4 @@
-# 🥶airticket_reservation
+# 🥶airticket_reservation✈
 A Lame school project on air ticket reservation. [not perfect yet tho]<br/>
 The information is getting stored in MySQL (back end)<br/>
 <br/>
