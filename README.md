@@ -11,5 +11,7 @@ This script basically allows users/passengers to : <br/>
 5.) Get the total price of Luggage Bill according to the weight of it.<br/>
 6.) Get the Total Ticket Amount. <br/>  
 
+here is a nice plane image :</br>
+
 
 ![alt text](https://fgmwhelehan.files.wordpress.com/2014/11/airplane-1300x724-e1416661959154.jpg?w=772)
